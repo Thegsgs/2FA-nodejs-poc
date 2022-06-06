@@ -1,0 +1,14 @@
+.app {
+  display: grid;
+  place-items: center;
+  height: 70vh;
+}
+
+.form__title {
+  text-align: center;
+}
+
+input {
+  display: block;
+  margin-bottom: 20px;
+}
